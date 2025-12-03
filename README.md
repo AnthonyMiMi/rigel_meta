@@ -1,2 +1,2 @@
 # Rigel_meta
-The meta package for Rigel
+The meta repository for Rigel
