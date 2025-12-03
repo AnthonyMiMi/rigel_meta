@@ -26,9 +26,7 @@ blah blah blah ...
 - [rigel_ros](https://github.com/AnthonyMiMi/rigel_ros)
 - [rigel_basestation_ros](https://github.com/AnthonyMiMi/rigel_basestation_ros)
 - [rigel_steamdeck_ros](https://github.com/AnthonyMiMi/rigel_steamdeck_ros)
-- [rigel_description](https://github.com/AnthonyMiMi/rigel_description)
-- [rigel_msgs](https://github.com/AnthonyMiMi/rigel_msgs)
-- [rigel_teleop](https://github.com/AnthonyMiMi/rigel_teleop)
+- [rigel_common](https://github.com/AnthonyMiMi/rigel_common)
 
 #### Other ROS packages
 - [inslam_ros](https://github.com/AnthonyMiMi/inslam_ros)
